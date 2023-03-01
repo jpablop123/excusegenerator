@@ -17,7 +17,7 @@ window.onload = function() {
       "right on time",
       "when I finished",
       "during my lunch",
-      "while I was praying"
+      "while I was praying",
     ];
     console.log("onload");
     let fraserandom = Math.random() * 3;
